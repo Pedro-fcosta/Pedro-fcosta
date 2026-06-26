@@ -180,7 +180,7 @@ I believe engineering is not only about calculations or tools. It is about under
 
 ---
 
-<div class="tenor-gif-embed" data-postid="5288217735308595669" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/the-climber-the-climber-manga-buntaro-mori-gif-5288217735308595669">The Climber The Climber Manga GIF</a>from <a href="https://tenor.com/search/the+climber-gifs">The Climber GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" src="assets/character.gif" width="160" />
 
 ## 📫 Contact
 
