@@ -2,9 +2,11 @@
 
 <div align="center">
 
-# Pedro Fernandes da Costa
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=34&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Pedro+Fernandes+da+Costa" />
 
-### Mechanical Engineering Student | Mechanical Technician | Python for Engineering & Industrial Applications
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&duration=1&pause=100000&color=9CA3AF&center=true&vCenter=true&width=900&height=40&lines=Mechanical+Engineering+Student+%7C+Mechanical+Technician+%7C+Python+for+Industrial+Applications" />
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-fernandes-costa/">
@@ -13,13 +15,16 @@
   <a href="mailto:pedrofernandesdacosta96@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/CFT-Active-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CFT-Active%20Registration-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Industrial%20Engineering-2ea44f?style=for-the-badge" />
 </p>
 
 </div>
 
-<img src="assets/banner.gif" width="100%" height="300" />
+<img src="assets/banner.gif" width="100%" />
+
+---
+
 
 ---
 
