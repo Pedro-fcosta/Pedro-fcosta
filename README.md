@@ -20,8 +20,8 @@ I am especially interested in **industrial maintenance, quality, manufacturing p
 
 * [Computational Modeling and Simulation of Dynamical Systems](https://github.com/Pedro-fcosta/Computational-Modeling-and-Simulation-of-Dynamical-Systems) — Computational modeling and numerical simulation of dynamical systems using Python.
 
-* **Lessons Learned System** — System for registering, organizing and generating standardized lessons learned reports for industrial routines.
-  *Coming soon.*
+* [LIAP - Lessons Learned System](https://github.com/Pedro-fcosta/LIAP-Leasons-Learned-System) — System for registering, organizing and generating standardized lessons learned reports for industrial routines.
+  
 
 ---
 
